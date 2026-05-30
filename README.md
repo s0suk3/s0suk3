@@ -11,6 +11,7 @@
 - Interested in **Red Teaming and Ethical Hacking**
 - Building hands-on projects to improve practical skills
 - Actively learning and exploring new technologies
+- Vibe Coder
 
 ---
 
