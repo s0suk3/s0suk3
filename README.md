@@ -31,8 +31,10 @@
 
 ---
 
-## 📂 Projects (Coming Soon)
-- 🌐 Automated Web Vulnerability Scanner
+## 📂 Projects
+- Key logger
+- SSH-Intrusion-Monitor
+- lolmap
 
 ---
 
