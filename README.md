@@ -32,7 +32,7 @@
 ---
 
 ## 📂 Projects
-- Key logger
+- Key logger(Private)
 - SSH-Intrusion-Monitor
 - lolmap
 
